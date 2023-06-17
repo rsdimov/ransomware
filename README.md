@@ -1,2 +1,2 @@
-# ransomeware
+# Ransomeware
 Simple ransomeware written in C#
