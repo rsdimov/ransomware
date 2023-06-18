@@ -1,5 +1,5 @@
-# Ransomeware
-Simple ransomeware written in C# that is AV undetectable.
+# Ransomware
+Simple ransomware written in C# that is AV undetectable.
 
 Replace the target directory/encryption key and build.
 
