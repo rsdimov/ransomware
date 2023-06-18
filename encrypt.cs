@@ -8,9 +8,7 @@ class Program
     {
         string[] folderPaths = new string[]
         {
-            @"C:\Path\To\Folder1",
-            @"C:\Path\To\Folder2",
-            @"C:\Path\To\Folder3"
+            @"C:\Path\To\Folder1"
         };
         
         string password = "YourEncryptionPassword";
